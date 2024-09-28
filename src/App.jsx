@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1 className="ppo bg-gray-800 "></h1>
+      <h1 className="ppo h-32 bg-gray-800 ">Hellow</h1>
     </>
   );
 }
